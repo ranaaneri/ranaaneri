@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning UI designing
 - 📫 How to reach me:
 -> https://www.instagram.com/aneriarana/
-
 -> https://www.linkedin.com/in/aneri-rana-46b61520b/
 
 <!---
